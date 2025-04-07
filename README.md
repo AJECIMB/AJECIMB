@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/alejandro-jose-escudero-castellar-53326128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-jose-escudero-castellar-53326128" height="30" width="40" /></a>
-<a href="(https://www.instagram.com/a__escudero?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a__escudero" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a__escudero?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a__escudero" height="30" width="40" /></a>
 
 </p>
 
